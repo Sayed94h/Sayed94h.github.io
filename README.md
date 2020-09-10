@@ -20,9 +20,6 @@
 1. Web Development(HackYourFuture) ongoing
 
 ---
-
-![IMG_20191215_232403](https://user-images.githubusercontent.com/61209285/92802034-71f99180-f3b6-11ea-8f19-59fab1c284d4.jpg)
-
 ---
 
 ![IMG_20191215_232403](https://user-images.githubusercontent.com/61209285/92804344-8f2f5f80-f3b8-11ea-8a8f-00bfd6b76ac2.jpg)
