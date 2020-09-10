@@ -1,5 +1,3 @@
-## This is my amazing future portfolio
-
 # Sayed Abdul Khalil Kazimi
 
 
@@ -38,3 +36,5 @@ English | B2 | B2 | B2
 Dutch | B2 | B2 | B2
 Pashto | B1 | B1 | B1
 French | 0+ | 0+ | 0+
+
+## This is my amazing future portfolio
