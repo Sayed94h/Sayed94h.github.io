@@ -27,11 +27,6 @@
 ---
 
 Visit my LinkedIn [Profile](https://be.linkedin.com/in/sayed-kazimi-b838401b3)
-<!--
-I already have created a simple website using Glitch:
-
-[You can find it here](http://sayed94h.glitch.me)
--->
 
 
 ## My languages
