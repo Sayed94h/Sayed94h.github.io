@@ -26,7 +26,6 @@ I already have created a simple website using Glitch:
 [You can find it here](http://sayed94h.glitch.me)
 -->
 
-**IT IS NOT SO NICE BUT IT IS OK FOR NOW**
 
 ## My languages
 
