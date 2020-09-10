@@ -1,9 +1,7 @@
 ## This is my amazing future portfolio
----
 
 # Sayed Abdul Khalil Kazimi
 
----
 
 > Age: 26(single)
 
@@ -13,13 +11,14 @@
 
 > Living in Belgium
 
+---
+
 ### Training Courses:
 
 1. Java (Coursera)
 1. System Administration in ICT(Cevora)
 1. Web Development(HackYourFuture) ongoing
 
----
 ---
 
 ![IMG_20191215_232403](https://user-images.githubusercontent.com/61209285/92804344-8f2f5f80-f3b8-11ea-8a8f-00bfd6b76ac2.jpg)
