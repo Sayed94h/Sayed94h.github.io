@@ -5,9 +5,11 @@
 
 ---
 
-Age: 26
-Country: Afghanistan
-Studies: I was studying at National Defense University of Afghanistan but could finish it because of security problems
+> Age: 26
+
+> Country: Afghanistan
+
+> Studies: I was studying at National Defense University of Afghanistan but could finish it because of security problems
 
 Visit my LinkedIn [Profile](https://be.linkedin.com/in/sayed-kazimi-b838401b3)
 <!--
