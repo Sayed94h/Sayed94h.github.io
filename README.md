@@ -15,9 +15,9 @@
 
 ### Training Courses:
 
-1. Java (Coursera)
-1. System Administration in ICT(Cevora)
-1. Web Development(HackYourFuture) ongoing
+1. **Java** (_Coursera_)
+1. **System Administration** in ICT(_Cevora_)
+1. **Web Development** (_HackYourFuture_) ongoing
 
 ---
 
