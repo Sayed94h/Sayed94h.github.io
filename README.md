@@ -24,7 +24,7 @@ I already have created a simple website using Glitch:
 
 ## My languages
 
-> My mother language is **_Dari_**.
+> My native language is **_Dari_**.
 
 Language | Speaking | Reading | Writing
 ---:| :-----: | :-----: | :-----: 
