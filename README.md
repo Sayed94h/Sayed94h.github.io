@@ -13,6 +13,12 @@
 
 > Living in Belgium
 
+### Training Courses:
+
+1. Java (Coursera)
+1. System Administration in ICT(Cevora)
+1. Web Development(HackYourFuture) ongoing
+
 ---
 
 ![IMG_20191215_232403](https://user-images.githubusercontent.com/61209285/92802034-71f99180-f3b6-11ea-8f19-59fab1c284d4.jpg)
