@@ -19,7 +19,7 @@
 
 ---
 
-![IMG_20191215_232403](https://user-images.githubusercontent.com/61209285/92804344-8f2f5f80-f3b8-11ea-8a8f-00bfd6b76ac2.jpg)
+![IMG_20191215_232403](https://user-images.githubusercontent.com/61209285/93141228-1ac02d80-f6e4-11ea-868e-00e34cec8f3c.jpg)
 
 ---
 
