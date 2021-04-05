@@ -1,7 +1,8 @@
 # Sayed Kazimi
 
-## First Name: Sayed Abdul Khalil but shortly `Sayed`
-## Family Name: Kazimi
+> First Name: Sayed 
+
+> Family Name: Kazimi
 
 > Birthdate: July 5, 1994
 
