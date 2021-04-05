@@ -1,11 +1,13 @@
-# Sayed Abdul Khalil Kazimi
+# Sayed Kazimi
 
+## First Name: Sayed Abdul Khalil but shortly `Sayed`
+## Family Name: Kazimi
 
-> Age: 26(single)
+> Birthdate: July 5, 1994
 
 > Country: Afghanistan
 
-> Studies: I was studying at National Defense University of Afghanistan but could finish it because of security problems
+> Studies: I was studying at University in Afghanistan to become a computer science professor but could not finish it because of security problems
 
 > Living in Belgium
 
@@ -15,7 +17,10 @@
 
 1. **Java** (_Coursera_)
 1. **System Administration** in ICT(_Cevora_)
-1. **Web Development** (_HackYourFuture_) ongoing
+1. **Web Development** (_HackYourFuture_)
+1. **C++** (_W3Schools_)
+1. **Angular Front end Framework** 
+1. **Python** (_During internship at Meet Het_)
 
 ---
 
@@ -25,8 +30,11 @@
 
 Visit my LinkedIn [Profile](https://be.linkedin.com/in/sayed-kazimi-b838401b3)
 
+Have a look at my [portfolio](https://everydaysmarter.herokuapp.com/projects.html)
 
-## My languages
+
+
+## Languages
 
 > My native language is **_Dari_**.
 
@@ -37,4 +45,5 @@ Dutch | B2 | B2 | B2
 Pashto | B1 | B1 | B1
 French | 0+ | 0+ | 0+
 
-## This is my amazing future portfolio
+## Thank you for your visit
+
