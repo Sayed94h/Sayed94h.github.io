@@ -34,7 +34,7 @@ Visit my LinkedIn [Profile](https://be.linkedin.com/in/sayed-kazimi-b838401b3)
 > My native language is **_Dari_**.
 
 Language | Speaking | Reading | Writing
----:| :-----: | :-----: | :-----: 
+---: | :-----: | :-----: | :-----: 
 English | B2 | B2 | B2
 Dutch | B2 | B2 | B2
 Pashto | B1 | B1 | B1
