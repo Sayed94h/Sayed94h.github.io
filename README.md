@@ -4,24 +4,21 @@
 
 > Family Name: Kazimi
 
-> Birthdate: July 5, 1994
-
-> Country: Afghanistan
-
-> Studies: I was studying at University in Afghanistan to become a computer science professor but could not finish it because of security problems
-
-> Living in Belgium
 
 ---
 
-### Training Courses:
+### Professional at:
 
-1. **Java** (_Coursera_)
-1. **System Administration** in ICT(_Cevora_)
-1. **Web Development** (_HackYourFuture_)
-1. **C++** (_W3Schools_)
-1. **Angular Front end Framework** 
-1. **Python** (_During internship at Meet Het_)
+1. **Java** 
+1. **C#**
+1. **Python**
+1. **JavaScript/TypeScript**
+1. **Web Development** 
+1. **Angular, React** 
+1. **HTML, CSS**
+1. **MS SQL**
+1. **Visual Studio**
+1. **System Administration**
 
 ---
 
@@ -30,9 +27,6 @@
 ---
 
 Visit my LinkedIn [Profile](https://be.linkedin.com/in/sayed-kazimi-b838401b3)
-
-Have a look at my [portfolio](https://everydaysmarter.herokuapp.com/projects.html)
-
 
 
 ## Languages
